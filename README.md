@@ -1,2 +1,0 @@
-# anz
-Created with CodeSandbox
